@@ -1,4 +1,4 @@
-
+O
 /*
 ⫰⫯ Note!! Kalo Mau Hapus Ngotak Dulu,Siapa Yg Buat Siapa Yg Kerja Siapa Yang Nyediain Scriptnya
 
@@ -88,7 +88,7 @@ global.prems = []
 global.nomorbot = '6289512871985'
 global.nomorown = '6281333782061'
 global.nomorown1 = '6281333782061'
-global.nomorown2 = '6281333782061'
+global.nomorown2 = '6289512871985'
 global.nomorwa = '0'
 
 
